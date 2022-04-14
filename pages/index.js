@@ -8,10 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
-    
-    <body style="background-image: url(VjCtG8A21Y8.jpg)">
-    </body>
+      </Head>    
 
       <main>
         <Header title="Welcomuski to my app!" />
