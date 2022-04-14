@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     
-    <body style="background-image: url(IMG.jpg)">
+    <body style="background-image: url(VjCtG8A21Y8.jpg)">
     </body>
 
       <main>
