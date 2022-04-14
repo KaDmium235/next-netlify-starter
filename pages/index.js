@@ -10,8 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
     
-    <body style="background-color: #55D52B">
-    <p>Фон сайта #55D52B</p> 
+    <body style="background-image: url(IMG.jpg)">
     </body>
 
       <main>
