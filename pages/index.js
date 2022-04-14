@@ -9,6 +9,10 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    
+    <body style="background-color: #55D52B">
+    <p>Фон сайта #55D52B</p> 
+    </body>
 
       <main>
         <Header title="Welcomuski to my app!" />
