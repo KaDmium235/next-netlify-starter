@@ -7,6 +7,11 @@ export default function Home() {
     <div class="background">
       /*<img src="bg_main.JPG" />*/
       <img src="bg_main.JPG" class="background" />
+    
+        <Head>
+            <title>Next.js Starter!</title>
+            <link rel="icon" href="/favicon.ico" />          
+         </Head>
         <main>         
           <Header title="One line" />     
           <Header title="Second line!!" />
