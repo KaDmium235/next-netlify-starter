@@ -1,6 +1,6 @@
 html {
   /*background-image: url(https://siterost.net/uploads/temp/837506ffd6f221e7c40c9f22461eaefd.jpg);*/
-  background-image: url(bg_main.JPG);
+  background-image: src=(bg_main.JPG);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed; 
