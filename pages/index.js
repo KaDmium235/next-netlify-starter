@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>         
-        <Header title="One line" />          
+        <Header title="One line" /> 
+    <img src="/bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
         <Header title="Second line!!" />
         <Header title="Third one" />
         <Header title="Welcomushki to KaDmium235!!" />
