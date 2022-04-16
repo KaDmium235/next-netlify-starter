@@ -30,9 +30,7 @@ h1 {
   background: #00aa00;
   border-radius: 20px;
   padding: 0.75rem;
-  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
-  
-  
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;  
 }
 
 h2 {
@@ -45,6 +43,11 @@ h2 {
   font-size: 48px;
   font-weight: 300;
   color: rgba(0,0,0,.7)
+    
+  background: #ff8800;
+  border-radius: 36px;
+  padding: 0.75rem;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;   
 }
 
 footer {
