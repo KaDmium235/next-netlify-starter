@@ -16,6 +16,7 @@ export default function Home() {
       <main>
          /* background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
         <Header title="One line" />
+          <img src="/bg_main.JPG" alt="Netlify Logo" className={styles.bground1} />  
         <Header title="Second line!!" />
         <Header title="Third one" />
         <Header title="Welcomushki to KaDmium235!!" />
