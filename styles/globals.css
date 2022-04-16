@@ -1,5 +1,5 @@
 html,
-/*bground1 {
+bground1 {
   position: fixed;
   top: -50%;
   left: -50%;
@@ -7,7 +7,7 @@ html,
   height: 200%;
     } /* */
 
-/*img {
+img {
   position: absolute;
   top: 0;
   left: 0;
@@ -16,7 +16,7 @@ html,
   margin: auto;
   min-width: 50%;
   min-height: 50%;
-    } */
+    }/* */
 
 body {
   background: #aaaaaa;
