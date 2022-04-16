@@ -9,7 +9,8 @@ export default function Home() {
           <body>
             <header>
               <hgroup>
-                  <h1>КаДмий</h1>
+                  <h1>KaDmium</h1>
+                  <h1>DIY LaserTag Devices</h1>
                   <h2>E-mail: xa2ntp@gmail.com</h2>
               </hgroup>
             </header>
