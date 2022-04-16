@@ -3,20 +3,15 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 export default function Home() {
-  return (
-   /* <div class="background">
-    <img src="bg_main.JPG" />
-      </div>   */   
+  return (   
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />          
       </Head>
 
-      <main>
-         /* background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
-        <Header title="One line" />
-          <img src="/bg_main.JPG" alt="Netlify Logo" className={styles.bground1} />  
+      <main>         
+        <Header title="One line" />          
         <Header title="Second line!!" />
         <Header title="Third one" />
         <Header title="Welcomushki to KaDmium235!!" />
@@ -24,7 +19,6 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>          
       </main>
-
       <Footer />
     </div>
   )
