@@ -4,17 +4,17 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    <div class="background">
+   /* <div class="background">
     <img src="bg_main.JPG" />
-      </div>
+      </div>   */   
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />          
-      </Head>    
+      </Head>
 
       <main>
-          background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
+         /* background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
         <Header title="One line" />
         <Header title="Second line!!" />
         <Header title="Third one" />
