@@ -10,7 +10,7 @@ export default function Home() {
             <header>
               <hgroup>
                   <h1>КаДмий</h1>
-                  <h2>Вариант 1</h2>
+                  <h2>E-mail: xa2ntp@gmail.com</h2>
               </hgroup>
             </header>
     /*<footer><a href="https://siterost.net" target="_blank">Siterost.net - сервисы для вебмастеров</a></footer>*/
