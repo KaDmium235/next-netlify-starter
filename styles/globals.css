@@ -26,6 +26,13 @@ h1 {
   font-weight: bold; /*300;*/
   line-height: 1.2;
   margin: 0;
+  
+  background: #00aa00;
+  border-radius: 20px;
+  padding: 0.75rem;
+  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
+  
+  
 }
 
 h2 {
