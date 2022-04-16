@@ -22,8 +22,8 @@ header {
 }
 
 h1 {
-  font-size: 28px;
-  font-weight: 300;
+  font-size: 56px;
+  font-weight: bold; /*300;*/
   line-height: 1.2;
   margin: 0;
 }
