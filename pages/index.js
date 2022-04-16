@@ -13,7 +13,7 @@ export default function Home() {
                   <h2>E-mail: xa2ntp@gmail.com</h2>
               </hgroup>
             </header>
-    /*<footer><a href="https://siterost.net" target="_blank">Siterost.net - сервисы для вебмастеров</a></footer>*/
+    /*<footer><a href="https://kadmium-236.netlify.app" target="_blank">Siterost.net - сервисы для вебмастеров</a></footer>*/
   </body>
 </html>
     
