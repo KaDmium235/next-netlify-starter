@@ -8,16 +8,12 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
-        <title>Пример установки изображения в качестве фона</title>
-          <style> 
-            body {
-              background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
-              background-color: white; /* задаем задний фон для элемента */
-                }
-         </style>
+        
+          
       </Head>    
 
       <main>
+          background-image: url("bg_main.png"); /* указываем путь к файлу изображения, которое будет использоваться как задний фон */
         <Header title="One line" />
         <Header title="Second line!!" />
         <Header title="Third one" />
