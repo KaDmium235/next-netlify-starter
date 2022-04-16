@@ -1,10 +1,10 @@
 html,
 bground1 {
   position: fixed;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
+  top: -5%;
+  left: -5%;
+  width: 100%;
+  height: 100%;
     } /* */
 
 img {
