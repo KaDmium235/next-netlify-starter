@@ -15,10 +15,11 @@ export default function Home() {
         <Header title="Second line!!" />
         <Header title="Third one" />
         <Header title="Welcomushki to KaDmium235!!" />
-    <img src="bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
+    
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-        </p>          
+        </p> 
+    <img src="bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
       </main>
       <Footer />
     </div>
