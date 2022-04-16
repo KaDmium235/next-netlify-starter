@@ -13,7 +13,7 @@ export default function Home() {
                   <h2>E-mail: xa2ntp@gmail.com</h2>
               </hgroup>
             </header>
-    /*<footer><a href="https://kadmium-236.netlify.app" target="_blank">LaserTag devices DIY</a></footer>*/
+    <footer><a href="https://kadmium-236.netlify.app" target="_blank">LaserTag devices DIY</a></footer>
   </body>
 </html>
     
