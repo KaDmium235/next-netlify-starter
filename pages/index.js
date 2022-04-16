@@ -13,7 +13,7 @@ export default function Home() {
             <link rel="icon" href="/favicon.ico" />          
          </Head>
         <main>         
-          <Header title="One line" />     
+          <Header title="One line" className="container"/>     
           <Header title="Second line!!" />
           <Header title="Third one" />
           <Header title="Welcomushki to KaDmium235!!" />    
