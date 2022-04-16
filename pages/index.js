@@ -5,7 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (   
     <div class="background">
-      <img src="bg_main.JPG" />
+      /*<img src="bg_main.JPG" />*/
       </div>
   )
 }
