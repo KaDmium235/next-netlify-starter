@@ -34,15 +34,10 @@ h1 {
 }
 
 h2 {
-  text-transform: uppercase;
-  font-weight: bold;
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid rgba(0,0,0,.2);
-  margin-bottom: 0;
-  font-size: 48px;
-  font-weight: 300;
-  color: rgba(0,0,0,.7)
+  font-size: 36px;
+  font-weight: bold; /*300;*/
+  line-height: 1.2;
+  margin: 0;
     
   background: #ff8800;
   border-radius: 36px;
