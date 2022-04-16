@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>         
         <Header title="One line" /> 
-    <img src="/bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
+    <img src="bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
         <Header title="Second line!!" />
         <Header title="Third one" />
         <Header title="Welcomushki to KaDmium235!!" />
