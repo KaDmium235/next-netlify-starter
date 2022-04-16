@@ -1,5 +1,5 @@
 html,
-div.background {
+/*div.background {
   position: fixed;
   top: -50%;
   left: -50%;
@@ -16,7 +16,7 @@ img {
   margin: auto;
   min-width: 50%;
   min-height: 50%;
-    }
+    } */
 
 body {
   background: #aaaaaa;
