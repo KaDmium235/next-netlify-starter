@@ -9,19 +9,17 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />          
       </Head>
-
       <main>         
         <Header title="One line" />     
         <Header title="Second line!!" />
         <Header title="Third one" />
-        <Header title="Welcomushki to KaDmium235!!" />
-    
+        <Header title="Welcomushki to KaDmium235!!" />    
         <p className="description">
           Get started by editing <code>pages/index.js</code>
-        </p> 
-    <img src="bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
+        </p>     
       </main>
       <Footer />
     </div>
+    <img src="bg_main.JPG" alt="Netlify Logo"  /> /*  className={styles.logo}      */
   )
 }
