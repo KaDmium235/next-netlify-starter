@@ -1,75 +1,57 @@
-html, 
-
-img.background {
-  min-height: 100%;
-  min-width: 640px;
-  width: 100%;
-  height: auto;
-  /*position: fixed;*/
-  top: 0;
-  left: 0;
-
-  /* Зависит от размера изображения */
-  @media screen and (max-width: 640px){
-	img.bg {
-	  left: 50%;
-	  margin-left: -320px;
-	       }
-     }
-  }
-
-bground1 {
-  /*position: fixed;*/
-  top: -5%;
-  left: -5%;
-  background-size: 100%
-  /*width: 1%;*/
-  /*height: 1%;*/
-    } /* */
-
-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  margin: auto;
-  min-width: 10%;
-  min-height: 10%;
-    }/* */
+html {
+  background-image: url(https://siterost.net/uploads/temp/837506ffd6f221e7c40c9f22461eaefd.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 body {
-  background: #aaaaaa;
-  padding: 0;
+  font-family: Roboto, sans;
+}
+
+header {
+  text-shadow: 0 1px 8px rgba(0,0,0,.2);
+  position: absolute;
+  top: 24px;
+  left: 24px; 
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 1.2;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
-    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;  
 }
 
-* {
-  box-sizing: border-box;
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0,0,0,.2);
+  margin-bottom: 0;
+  font-size: 48px;
+  font-weight: 300;
+  color: rgba(0,0,0,.7)
 }
 
-main {
-  padding: 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  align-items: left;
+footer {
+  position: absolute;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
-code {
-  background: #00aa00;
-  border-radius: 20px;
-  padding: 0.75rem;
-  font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
+a {
+  font-weight: lighter;
+  text-decoration: none;
+  color: rgba(0,0,0,.7);
 }
 
-.container {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+a:hover {
+  color: #2196f3;
 }
