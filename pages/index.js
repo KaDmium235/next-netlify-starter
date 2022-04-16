@@ -7,8 +7,9 @@ export default function Home() {
     <div class="background">
       /*<img src="bg_main.JPG" />*/
       <img src="bg_main.JPG" class="background" />
-      </div>
     <Header title="One line" />   
+      </div>
+    
     /*<div className="container">
       <Head>
         <title>Next.js Starter!</title>
