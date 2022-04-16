@@ -8,8 +8,8 @@ export default function Home() {
       /*<img src="bg_main.JPG" />*/
       <img src="bg_main.JPG" class="background" />
       </div>
-    
-    <div className="container">
+    <Header title="One line" />   
+    /*<div className="container">
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />          
@@ -24,7 +24,7 @@ export default function Home() {
         </p>     
       </main>
       <Footer />
-    </div>
+    </div>*/
     
   )
 }
