@@ -3,8 +3,9 @@ bground1 {
   position: fixed;
   top: -5%;
   left: -5%;
-  width: 1%;
-  height: 1%;
+  background-size: 100%
+  /*width: 1%;*/
+  /*height: 1%;*/
     } /* */
 
 img {
